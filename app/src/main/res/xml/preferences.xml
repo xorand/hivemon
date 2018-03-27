@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:key="pref_rig_group"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_rig_group" />
+    <EditTextPreference
+        android:key="pref_secret_key"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_secret_key" />
+    <EditTextPreference
+        android:key="pref_public_key"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_public_key" />
+</PreferenceScreen>

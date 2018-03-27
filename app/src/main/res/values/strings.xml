@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HiveMon</string>
+    <string name="menu_settings">Settings</string>
+    <string name="pref_rig_group">Rig Group</string>
+    <string name="pref_public_key">Public Key</string>
+    <string name="pref_secret_key">Secret Key</string>
+    <string name="menu_refresh">Refresh</string>
+</resources>
